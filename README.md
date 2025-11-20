@@ -8,8 +8,8 @@ Raquel Araceli Serrano Mamani         C.I. : 9250244<br>
 Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 <br>
 Estructura del proyecto:
-C:.
-ª   README.md
+```C:. <br>
+ª   README.md <br>
 ª   
 +---directorio_profesores
 ª   ª   manage.py
@@ -35,4 +35,4 @@ C:.
 ª       +---migrations     
 ª       +---__pycache__
 ª               
-+---env
++---env```
