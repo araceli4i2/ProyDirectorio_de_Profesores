@@ -10,7 +10,7 @@ Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 Estructura del proyecto:
 <br>
 ````
-ª   README.mdz
+ª   README.md
 ª   
 +---directorio_profesores
 ª   ª   manage.py
