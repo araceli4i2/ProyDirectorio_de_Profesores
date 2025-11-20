@@ -7,7 +7,7 @@ Herrera Bonilla Thaime Helen         C.I. : 72053905<br>
 Raquel Araceli Serrano Mamani         C.I. : 9250244<br>
 Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 <br>
-Estructura del proyecto:
+## Estructura del proyecto:
 <br>
 ````
 ª   README.md
