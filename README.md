@@ -38,3 +38,10 @@ Estructura del proyecto:
 ª               
 +---env
 ````
+<br>
+Especificaciones:
+<br>
+En el archivo requirements.txt se especifican las dependencias <br >
+de la aplicacion, Necesario para el funcionamiento de la aplicacion<br>
+para descargar las dependencias se utiliza el comando:<br>
+pip install -r requirements.txt<br>
