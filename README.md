@@ -8,4 +8,31 @@ Raquel Araceli Serrano Mamani         C.I. : 9250244<br>
 Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 <br>
 Estructura del proyecto:
-```|-- README.md | |-- directorio_profesores | |-- manage.py | |-- requirements.txt | | | |-- directorio_profesores | | |-- asgi.py | | |-- settings.py | | |-- urls.py | | |-- wsgi.py | | |-- init.py | | | | | -- __pycache__ | | | -- reservas | |-- admin.py | |-- apps.py | |-- models.py | |-- tests.py | |-- views.py | |-- init.py | | | |-- migrations | -- __pycache__ | -- env```
+C:. <br>
+ª   README.mdz
+ª   
++---directorio_profesores
+ª   ª   manage.py
+ª   ª   requirements.txt
+ª   ª   
+ª   +---directorio_profesores
+ª   ª   ª   asgi.py
+ª   ª   ª   settings.py
+ª   ª   ª   urls.py
+ª   ª   ª   wsgi.py
+ª   ª   ª   __init__.py
+ª   ª   ª   
+ª   ª   +---__pycache__
+ª   ª           
+ª   +---reservas
+ª       ª   admin.py
+ª       ª   apps.py
+ª       ª   models.py
+ª       ª   tests.py
+ª       ª   views.py
+ª       ª   __init__.py
+ª       ª   
+ª       +---migrations     
+ª       +---__pycache__
+ª               
++---env
