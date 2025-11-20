@@ -7,7 +7,7 @@ Herrera Bonilla Thaime Helen         C.I. : 72053905<br>
 Raquel Araceli Serrano Mamani         C.I. : 9250244<br>
 Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 <br>
-[Estructura del Proyecto](#-estructura-del-proyecto)
+ESTRCUTURA DEL PROYECTO:
 <br>
 ````
 ª   README.md
@@ -39,13 +39,14 @@ Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 +---env
 ````
 <br>
-[Instalación](#-instalación)<br>
+INSTALACION.- <br> 
 1.- Para clonar el repositorio:<br>
 (clonalo en una carpeta vacia)<br>
-````git clone https://github.com/araceli4i2/ProyDirectorio_de_Profesores.git````
+" git clone https://github.com/araceli4i2/ProyDirectorio_de_Profesores.git " 
+<br>
 2.- Crear y activar el entorno virtual (venv) <br>
-````python -m venv env
-    .\env\Scripts\activate
-````
+python -m venv env <br> 
+" .\env\Scripts\activate "
+<br>
 3.- instalar dependencias<br>
-````pip install -r requirements.txt````
+<br> pip install -r requirements.txt " <br>
