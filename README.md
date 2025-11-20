@@ -7,7 +7,7 @@ Herrera Bonilla Thaime Helen         C.I. : 72053905<br>
 Raquel Araceli Serrano Mamani         C.I. : 9250244<br>
 Zamora Paredes Amilcar Brandon         C.I. : 77592006<br>
 <br>
-Estructura del proyecto:
+[Estructura del Proyecto](#-estructura-del-proyecto)
 <br>
 ````
 ª   README.md
@@ -39,9 +39,13 @@ Estructura del proyecto:
 +---env
 ````
 <br>
-Especificaciones:
-<br>
-En el archivo requirements.txt se especifican las dependencias <br >
-de la aplicacion, Necesario para el funcionamiento de la aplicacion<br>
-para descargar las dependencias se utiliza el comando:<br>
-pip install -r requirements.txt<br>
+[Instalación](#-instalación)<br>
+1.- Para clonar el repositorio:<br>
+(clonalo en una carpeta vacia)<br>
+````git clone https://github.com/araceli4i2/ProyDirectorio_de_Profesores.git````
+2.- Crear y activar el entorno virtual (venv) <br>
+````python -m venv env
+    .\env\Scripts\activate
+````
+3.- instalar dependencias<br>
+````pip install -r requirements.txt````
