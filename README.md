@@ -39,14 +39,15 @@ ESTRCUTURA DEL PROYECTO:
 +---env
 ````
 <br>
-INSTALACION.- <br> 
-1.- Para clonar el repositorio:<br>
-(clonalo en una carpeta vacia)<br>
-" git clone https://github.com/araceli4i2/ProyDirectorio_de_Profesores.git " 
-<br>
-2.- Crear y activar el entorno virtual (venv) <br>
-python -m venv env <br> 
-" .\env\Scripts\activate "
-<br>
-3.- instalar dependencias<br>
-<br> pip install -r requirements.txt " <br>
+## 🚀 Instalación
+
+Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local.
+
+---
+
+### 📌 1. Clonar el repositorio  
+> *Recomendación:* Clónalo dentro de una carpeta vacía.
+
+```bash
+git clone https://github.com/araceli4i2/ProyDirectorio_de_Profesores.git
+
